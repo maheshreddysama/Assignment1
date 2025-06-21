@@ -1,5 +1,5 @@
 
-1name: Build and Push Flask Docker Image
+name: Build and Push Flask Docker Image
 
 on:
   push:
